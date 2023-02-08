@@ -18,6 +18,7 @@ You may also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot_20230208_011706](https://user-images.githubusercontent.com/83289212/217487204-8ffcf323-a67b-49aa-9d4a-1ff3d6719aac.png)
 
 ### `npm run build`
 
@@ -32,6 +33,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Screenshot_20230208_011706](https://user-images.githubusercontent.com/83289212/217487281-65077601-ced1-456e-86a4-1c44c0e26bd1.png)
+
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
